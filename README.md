@@ -1,7 +1,7 @@
 # spring-boot-admin
 \
-This project is a little example how we can use spring-boot-admin like a 'microservice project'. \
-With spring-boot-admin we can manager all spring-boot application much easier.
+This project is a little example how we can use spring-boot-admin to manager a 'microservice project'. \
+With spring-boot-admin we can see all spring-boot application/metrics much easier.
 \
 \
 *For future this will be running with Dockerfile+docker-compose.
