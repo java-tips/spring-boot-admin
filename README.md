@@ -8,22 +8,18 @@ With spring-boot-admin we can see all spring-boot application/metrics much easie
 \
 \
 first step \
-`
-cd ./server/
-mvn spring-boot:run
-`
+```cd ./server/```
+```mvn spring-boot:run```
 \
 second step \
-`
-cd ./customer/ \
-mvn spring-boot:run
-`
+```cd ./customer/```
+```mvn spring-boot:run```
 \
 third step \
-`
-cd ./company/ \
-mvn spring-boot:run
-`
+
+```cd ./company/```
+```mvn spring-boot:run```
+
 \
 \
 enjoy it!
