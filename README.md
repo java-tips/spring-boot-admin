@@ -21,12 +21,8 @@ third step \
 ```cd ./company/```
 \
 ```mvn spring-boot:run```
-
-\
 \
 enjoy it!
-
-\
 \
 \
 <img src="https://github.com/java-tips/spring-boot-admin/blob/development/assets/02.png?raw=true" width="800">
